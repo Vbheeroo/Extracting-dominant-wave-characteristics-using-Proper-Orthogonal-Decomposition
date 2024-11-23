@@ -12,7 +12,7 @@ clear
 clc
 close all; 
 %% Extracting frames from video 
-vidReader = VideoReader('Video_Section_3.1.MOV');
+vidReader = VideoReader('UAS-Video_Gal_entrance_channel_20240215.MOV');
 jj = 1;
 frameIndex = 1;
 
